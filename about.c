@@ -2,4 +2,5 @@
 int main()
 {
 printf("welcome to workshop")
+print("hello world")
 }
